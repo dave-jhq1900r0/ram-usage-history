@@ -35,4 +35,4 @@ To render an ASCII trend chart of the last 24 hours:
 python ram_history.py chart --hours 24
 ```
 
-<!-- verified: 2026-09-14 -->
+<!-- verified: 2026-09-15 -->
